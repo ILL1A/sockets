@@ -6,9 +6,9 @@
 #include <cstring>
 #include <string>
 #include <thread>
-#include "socket.h"
-#include "message.h"
-#include "validator.h"
+#include "include/socket.h"
+#include "include/message.h"
+#include "include/validator.h"
 
 using namespace std;
 using namespace http_request;

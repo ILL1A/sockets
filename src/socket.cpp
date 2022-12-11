@@ -4,9 +4,9 @@
 #include <netinet/in.h>
 #include <arpa/inet.h>
 #include <cstring>
-#include "socket.h"
-#include "logger.h"
-#include "message.h"
+#include "include/socket.h"
+#include "include/logger.h"
+#include "include/message.h"
 
 using namespace std;
 
